@@ -49,9 +49,9 @@ more info to come
 
 [NumPy load documentation](https://numpy.org/doc/stable/reference/generated/numpy.load.html)
 
-https://qiskit.org/textbook/ch-applications/image-processing-frqi-neqr.html
+[Quantum Image Processing chapter in Qiskit textbook](https://qiskit.org/textbook/ch-applications/image-processing-frqi-neqr.html)
 
-https://paperswithcode.com/paper/image-processing-in-quantum-computers/review/
+[Image Processing on Quantum Computers](https://paperswithcode.com/paper/image-processing-in-quantum-computers/review/)
 
 https://www.researchgate.net/publication/257641933_NEQR_A_novel_enhanced_quantum_representation_of_digital_images#pf10
 
