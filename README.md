@@ -47,7 +47,7 @@ more info to come
 
 <h1><b>Resources and References</b></h1>
 
-https://numpy.org/doc/stable/reference/generated/numpy.load.html
+[NumPy load documentation](https://numpy.org/doc/stable/reference/generated/numpy.load.html)
 
 https://qiskit.org/textbook/ch-applications/image-processing-frqi-neqr.html
 
