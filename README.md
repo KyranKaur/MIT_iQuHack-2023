@@ -4,10 +4,6 @@
 
 This project is a part of the MIT iQuHACK2023. It is an annual quantum hackathon. It aims to bring students (high school through early-career professionals) from a diverse set of backgrounds to explore improvements and applications of near-term quantum devices. MIT iQuHACK 2023 will have an in-person hackathon and a virtual hackathon. Our team will take part in the remote hackathon. We have chosen the IonQ Challenge. # MIT_iQuHack-2023
 
-***Our motto**: Never too infeasible to be impossible*
-
-
-
 <i><b>Our Motto</b>: Never too infeasible to be impossible!</i>
 
 <h3>These are our teammates(listed alphabetically):</h3>
@@ -32,15 +28,19 @@ Image processing is extensively used in fast growing markets like facial recogni
 
 <h1>Part1 - Data Loading</h1>
 
-more info to come
+The first step is to encode images captured by camera into quantum circuits. This way the quantum computer can “see” the item. We were given an image dataset (Fashion-MNIST)and our task was to make a data loading scheme that encodes the images into a quantum state as lossless as possible. The encoded image had to be interpretable by simple measurements at the end of the circuit. 
 
 <h1>Encoding and Decoding Qubits</h1>
 
-more info to come
+Data representation is crucial for the success of machine learning models. For classical machine learning, the problem is how to represent the data numerically, so that it can be best processed by a classical machine learning algorithm.
+
+For quantum machine learning, this question is similar, but more fundamental: how to represent and efficiently input the data into a quantum system, so that it can be processed by a quantum machine learning algorithm. This is usually referred to as data encoding. This process is a critical part of quantum machine learning algorithms and directly affects their computational power.
+
+We first encoded the preprocessed image dataset into quantum circuits and then ran it through quantum machine learning algorithms. After measurement of the circuits we represented the data in the form of histograms which were decode back to images.
 
 <h1>Part2 - Classification</h1>
 
-more info to come
+In this part of the project we classified our images according to the appropriate labels. We used encoder(image) to convert the image into a quantum circuit,append the circuit with the classifier circuit loaded from the .pickle file. Then we simulated the circuit (encoded_image+classifier_circuit) to get a histogram and ran the provided histogram_to_label(histogram) to convert the histogram to label.
 
 <h1><b>Resources and References</b></h1>
 
@@ -57,17 +57,5 @@ https://www.nature.com/articles/srep08975
 https://arxiv.org/ftp/arxiv/papers/2002/2002.04394.pdf
 
 https://docs.google.com/document/d/125NR-4mMqrQg4Q_p09pxOP91K8kcQAs_SRR0YeSR1M8/edit
-
-These are our teammates(listed alphabetically):
-
-1. [Akash Reddy](https://github.com/Akash6300)
-
-2. [Gayatri Vadaparty](https://github.com/GayatriVadaparty)
-
-3. [Kiran Kaur](https://github.com/KyranKaur)
-
-4. [Nanda Kishore Reddy Aavu](https://github.com/nandakishore1807/)
-
-5. [Sai Ganesh Manda](https://github.com/mvsg2)
 
 https://docs.google.com/document/d/1jDr47urVEKvUAX0gAKCfhUjR3tRtDZIxw3WdoilN4JY/edit
