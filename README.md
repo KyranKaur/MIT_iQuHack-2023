@@ -1,10 +1,17 @@
 <b><h1>Welcome to Schrödinger's Descendants - MIT iQuHACK 2023</h1></b>
+![Uploading image.png…]()
 
-<img src="C:/Users/DEEP SINGH/Pictures/image mit.png" width="1000" height="350"/>
+<img src="![Uploading image.png…]()" width="1000" height="350"/>
+<img src="E:/Quantum Computing/Resources and Content/MIT.jpg" width="1000" height="350"/>
+
+
+
+<i><b>Our Motto</b>: Never too infeasible to be impossible!</i>
 
 This project is a part of the MIT iQuHACK2023. It is an annual quantum hackathon. It aims to bring students (high school through early-career professionals) from a diverse set of backgrounds to explore improvements and applications of near-term quantum devices. MIT iQuHACK 2023 will have an in-person hackathon and a virtual hackathon. Our team will take part in the remote hackathon. We have chosen the IonQ Challenge. # MIT_iQuHack-2023
 
-<i><b>Our Motto</b>: Never too infeasible to be impossible!</i>
+***Our motto**: Never too infeasible to be impossible*
+
 
 <h3>These are our teammates(listed alphabetically):</h3>
 
@@ -28,7 +35,13 @@ Image processing is extensively used in fast growing markets like facial recogni
 
 <h1>Part1 - Data Loading</h1>
 
+
 The first step is to encode images captured by camera into quantum circuits. This way the quantum computer can “see” the item. We were given an image dataset (Fashion-MNIST)and our task was to make a data loading scheme that encodes the images into a quantum state as lossless as possible. The encoded image had to be interpretable by simple measurements at the end of the circuit. 
+
+The given dataset is in the so-called binary format for numpy objects or pickled files. In order to load it, use the NumPy load function which will automatically load these objects from the disk and will return a numpy array of data stored in the file. (Refer to the documentation page linked below for more information).
+
+Usage:  *np.load(...# arguments # ...)*    # having imported the NumPy library with the command: _import numpy as np_
+
 
 <h1>Encoding and Decoding Qubits</h1>
 
@@ -44,9 +57,11 @@ In this part of the project we classified our images according to the appropriat
 
 <h1><b>Resources and References</b></h1>
 
-https://qiskit.org/textbook/ch-applications/image-processing-frqi-neqr.html
+[NumPy load documentation](https://numpy.org/doc/stable/reference/generated/numpy.load.html)
 
-https://paperswithcode.com/paper/image-processing-in-quantum-computers/review/
+[Quantum Image Processing chapter in Qiskit textbook](https://qiskit.org/textbook/ch-applications/image-processing-frqi-neqr.html)
+
+[Image Processing on Quantum Computers](https://paperswithcode.com/paper/image-processing-in-quantum-computers/review/)
 
 https://www.researchgate.net/publication/257641933_NEQR_A_novel_enhanced_quantum_representation_of_digital_images#pf10
 
