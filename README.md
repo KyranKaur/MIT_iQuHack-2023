@@ -5,7 +5,7 @@ This project is a part of the MIT iQuHACK2023. It is an annual quantum hackathon
 These are our teammates(listed alphabetically):
 1. [Akash Reddy](https://github.com/Akash6300)
 
-2. Gayatri Vadaparty
+2. [Gayatri Vadaparty](https://github.com/GayatriVadaparty)
 
 3. [Kiran Kaur](https://github.com/KyranKaur)
 
