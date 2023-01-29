@@ -9,7 +9,7 @@ These are our teammates(listed alphabetically):
 
 3. [Kiran Kaur](https://github.com/KyranKaur)
 
-4. Nanda Kishore Reddy Aavu
+4. [Nanda Kishore Reddy Aavu](https://github.com/nandakishore1807/)
 
 5. [Sai Ganesh Manda](https://github.com/mvsg2)
 
