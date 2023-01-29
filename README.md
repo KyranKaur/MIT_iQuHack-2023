@@ -35,7 +35,7 @@ Image processing is extensively used in fast growing markets like facial recogni
 
 The given dataset is in the so-called binary format for numpy objects or pickled files. In order to load it, use the NumPy load function which will automatically load these objects from the disk and will return a numpy array of data stored in the file. (Refer to the documentation page linked below for more information).
 
-*Usage*: np.load(...# arguments # ...)  # having imported the NumPy library with the command: import numpy as np
+*Usage*:  np.load(...# arguments # ...)    # having imported the NumPy library with the command: _import numpy as np_
 
 <h1>Encoding and Decoding Qubits</h1>
 
