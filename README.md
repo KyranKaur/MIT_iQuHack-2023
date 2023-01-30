@@ -8,7 +8,6 @@
 
 This project is a part of the MIT iQuHACK2023. It is an annual quantum hackathon. It aims to bring students (high school through early-career professionals) from a diverse set of backgrounds to explore improvements and applications of near-term quantum devices. MIT iQuHACK 2023 will have an in-person hackathon and a virtual hackathon. Our team will take part in the remote hackathon. We have chosen the IonQ Challenge. # MIT_iQuHack-2023
 
-***Our motto**: Never too infeasible to be impossible*
 
 
 <h3>These are our teammates(listed alphabetically):</h3>
@@ -25,7 +24,7 @@ This project is a part of the MIT iQuHACK2023. It is an annual quantum hackathon
 
 <h1>IonQ Challenge - Remote</h1>
 
-Our team decided to choose the IonQ challenge from the 2 challenges available for the remote participants this year. You can find the challenge GitHub Repository here. https://github.com/iQuHACK/2023_IonQ_Remote And the specific challenge here. https://github.com/iQuHACK/2023_IonQ_Remote/blob/main/MIT%20iQuHACK%20remote%20challenge%20.docx
+Our team decided to choose the IonQ challenge from the 2 challenges available for the remote participants this year. You can find the challenge GitHub Repository [here.](https://github.com/iQuHACK/2023_IonQ_Remote) And the specific challenge [here.](https://github.com/iQuHACK/2023_IonQ_Remote/blob/main/MIT%20iQuHACK%20remote%20challenge%20.docx)
 
 <h1>Quantum Image Processing</h1>
 
@@ -61,14 +60,14 @@ In this part of the project we classified our images according to the appropriat
 
 [Image Processing on Quantum Computers](https://paperswithcode.com/paper/image-processing-in-quantum-computers/review/)
 
-https://www.researchgate.net/publication/257641933_NEQR_A_novel_enhanced_quantum_representation_of_digital_images#pf10
+[NEQR Paper](https://www.researchgate.net/publication/257641933_NEQR_A_novel_enhanced_quantum_representation_of_digital_images#pf10)
 
-https://learn.qiskit.org/course/machine-learning/data-encoding
+[Data Encoding Qiskit](https://learn.qiskit.org/course/machine-learning/data-encoding)
 
-https://www.nature.com/articles/srep08975
+[Simple Scheme for Encoding and Decoding a Qubit in an Unknown State](https://www.nature.com/articles/srep08975)
 
-https://arxiv.org/ftp/arxiv/papers/2002/2002.04394.pdf
+[Quantum Image Processing](https://arxiv.org/ftp/arxiv/papers/2002/2002.04394.pdf)
 
-https://docs.google.com/document/d/125NR-4mMqrQg4Q_p09pxOP91K8kcQAs_SRR0YeSR1M8/edit
+[Image Compression and Classification using Qubits and Quantum Deep Learning](https://docs.google.com/document/d/125NR-4mMqrQg4Q_p09pxOP91K8kcQAs_SRR0YeSR1M8/edit)
 
-https://docs.google.com/document/d/1jDr47urVEKvUAX0gAKCfhUjR3tRtDZIxw3WdoilN4JY/edit
+[A Quantum Image Encryption Algorithm Based on Quantum Image Geometric Transformations](https://docs.google.com/document/d/1jDr47urVEKvUAX0gAKCfhUjR3tRtDZIxw3WdoilN4JY/edit)
