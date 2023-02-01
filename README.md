@@ -28,6 +28,9 @@ Our team decided to choose the IonQ challenge from the 2 challenges available fo
 
 Image processing is extensively used in fast growing markets like facial recognition and autonomous vehicles. At the same time Quantum Image Processing is an emerging field of Quantum Information Science that holds the promise of considerable speed-up for specific but commonly used operations like edge detection. For example, Zhang et al. proposed in 2014 a novel quantum image edge extraction algorithm (QSobel) based on the Flexible Representation of Quantum Images (FRQI) representation and the classical edge extraction algorithm Sobel. QSobel can extract edges in the computational complexity of O(n^2) for a FRQI quantum image with a size of  2^n×2^n, which is a significant and exponential speedup compared with existing edge extraction algorithms. We used two methods of encoding images in quantum states, the Flexible Representation of Quantum Images (FRQI) and the Novel Enhanced Quantum Representation (NEQR). Once our image is encoded in these states, we can then process them using other quantum algorithms.
 
+![im1](circ_eq.png)
+![im2](im2.PNG)
+
 <h1>Part1 - Data Loading</h1>
 
 
