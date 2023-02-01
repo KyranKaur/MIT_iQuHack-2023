@@ -1,5 +1,7 @@
 <b><h1>Welcome to Schrödinger's Descendants - MIT iQuHACK 2023</h1></b>
 
+![image](C:/Users/DEEP SINGH/Pictures/MIT.png)
+
 <img src="C:/Users/DEEP SINGH/Pictures/MIT.png" width="1000" height="350"/>
 
 
